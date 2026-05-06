@@ -1,0 +1,16 @@
+# Environment Variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Data
+data/*.csv
+final_products.csv
+
+# OS
+.DS_Store
